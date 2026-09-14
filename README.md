@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
