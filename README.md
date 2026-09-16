@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0268-missing-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0290-word-pattern) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UtkarshJagga/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
